@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Gatter</string>
+    <string name="sign_out_button">Sign Out</string>
+    <string name="success_text">Login successful. Welcome to Gatter</string>
+</resources>
